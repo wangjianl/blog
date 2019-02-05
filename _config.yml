@@ -1,13 +1,13 @@
 # Site settings
 title: whirling sky
-SEOTitle: whirling blog
+SEOTitle: 个人博客
 header-img: img/post-bg-desk.jpg
 email: wang_jian008@gmail.com
 description: "每天进步一点点."
-keyword: "java, Blog, whirling blog, wangjian, 邱柏荧, redis, jvm"
+keyword: "java, Blog, whirling blog, wangjian, redis, jvm"
 url: "https://wangjianl.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/wangjianl/wangjianl.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
